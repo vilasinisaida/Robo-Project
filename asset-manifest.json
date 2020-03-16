@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Robo-Project/static/css/main.528b04cd.chunk.css",
+    "main.js": "/Robo-Project/static/js/main.bad60648.chunk.js",
+    "main.js.map": "/Robo-Project/static/js/main.bad60648.chunk.js.map",
+    "runtime-main.js": "/Robo-Project/static/js/runtime-main.30af266e.js",
+    "runtime-main.js.map": "/Robo-Project/static/js/runtime-main.30af266e.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Robo-Project/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.9dbeed3d.chunk.js": "/Robo-Project/static/js/2.9dbeed3d.chunk.js",
+    "static/js/2.9dbeed3d.chunk.js.map": "/Robo-Project/static/js/2.9dbeed3d.chunk.js.map",
+    "index.html": "/Robo-Project/index.html",
+    "precache-manifest.b5e67316070323cabd6483db92c71372.js": "/Robo-Project/precache-manifest.b5e67316070323cabd6483db92c71372.js",
+    "service-worker.js": "/Robo-Project/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Robo-Project/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.528b04cd.chunk.css.map": "/Robo-Project/static/css/main.528b04cd.chunk.css.map",
+    "static/js/2.9dbeed3d.chunk.js.LICENSE.txt": "/Robo-Project/static/js/2.9dbeed3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30af266e.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.9dbeed3d.chunk.js",
+    "static/css/main.528b04cd.chunk.css",
+    "static/js/main.bad60648.chunk.js"
+  ]
+}
